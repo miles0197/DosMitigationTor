@@ -25,6 +25,7 @@
    Reference link: https://github.com/iavael/torcat
 
 -> You could test and monitor tcp connections, 3 way handshakes(SYN, SYN-ACK, ACK) that are established using Wireshark.
+   Here is a helpful link to see what to expect: https://www.youtube.com/watch?v=d0SNMUWUWm0
 
 
 
@@ -33,6 +34,7 @@
 
 
 -> Attack your own relay and look for event messages, bandwidth limit, follow your findings.
+
 
 
 
