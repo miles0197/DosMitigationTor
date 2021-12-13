@@ -28,7 +28,7 @@
 
 
 
--> Attack using the Tor's hammer python script based on slow post tool. As localhost, make sure IP/Server/Port are set with necessary permissions. (see  /etc/tor/torrc)
+-> Attack using the Tor's hammer python script based on slow post tool. Before doing so, study how the script is constructed and learn to use it. As localhost, make    sure IP/Server/Port are set with necessary permissions. (see  /etc/tor/torrc)
 
 
 
